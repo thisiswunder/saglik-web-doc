@@ -18,9 +18,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Anadolu Sigorta", // Usually your GitHub org/user name.
+  organizationName: "thisiswunder", // Usually your GitHub org/user name.
   projectName: "saglik-web-doc", // Usually your repo name.
-
+  deploymentBranch: "test-release",
+  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
