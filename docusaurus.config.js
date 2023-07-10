@@ -14,13 +14,13 @@ const config = {
   url: "https://thisiswunder.github.io/saglik-web-doc/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/saglik-web-doc/",
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "thisiswunder", // Usually your GitHub org/user name.
   projectName: "saglik-web-doc", // Usually your repo name.
-  deploymentBranch: "test-release",
+  deploymentBranch: "gh-pages",
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
