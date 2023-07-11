@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksaglik_web_doc=self.webpackChunksaglik_web_doc||[]).push([[7620],{3130:e=>{e.exports=JSON.parse('{"permalink":"/saglik-web-doc/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

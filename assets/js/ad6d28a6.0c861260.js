@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksaglik_web_doc=self.webpackChunksaglik_web_doc||[]).push([[4227],{9:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/saglik-web-doc/blog/tags/docusaurus","allTagsPath":"/saglik-web-doc/blog/tags","count":4}')}}]);
